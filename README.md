@@ -10,6 +10,9 @@
 ## Web technologies used
 - React.js
 - Redux
+- Styled Components
+- Material UI
+- React SpinKit
 - Firebase Firestore Database
 - Firebase for Deploying and Google Authentication
 
