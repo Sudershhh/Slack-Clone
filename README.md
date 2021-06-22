@@ -19,7 +19,7 @@
 ## Overview
 This app is built using react.js as the frontend and firebase as the backend. 
 
-Sign in using google account and you will be redirected to the home page and from there you can create channels and message people.
+Sign in using google account and you will be redirected to the home page and you can create channels and message people.
 
 ## Deployed Site
 [Check out the site here](https://slack-clone-d8c63.web.app/)
